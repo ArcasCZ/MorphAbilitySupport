@@ -2050,6 +2050,13 @@
     "fireImmunity",
     "waterAllergy",
     "hostile"
+  ],  
+  "cofh.thermalfoundation.entity.monster.EntityBlizz": [
+    "fly|false",
+    "hostile"
+  ],  
+  "crazypants.enderzoo.entity.EntityOwl": [
+    "fly|true"
   ],
   "net.minecraft.entity.monster.EntityCaveSpider": [
     "climb",
